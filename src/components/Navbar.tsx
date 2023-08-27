@@ -13,16 +13,16 @@ const Navbar = () => {
       {/* Menu */}
       <ul className="hidden md:flex gap-8">
         <li className="hover:text-green-300">
-          <Link to="/">Home</Link>
+          <Link to="/portfolio-deploy">Home</Link>
         </li>
         <li className="hover:text-green-300">
-          <Link to="/about">About</Link>
+          <Link to="/portfolio-deploy/about">About</Link>
         </li>
         <li className="hover:text-green-300">
-          <Link to="/blog">Blog</Link>
+          <Link to="/portfolio-deploy/blog">Blog</Link>
         </li>
         <li className="hover:text-green-300">
-          <Link to="/contact">Contact</Link>
+          <Link to="/portfolio-deploy/contact">Contact</Link>
         </li>
       </ul>
 
