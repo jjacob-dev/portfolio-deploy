@@ -1,4 +1,3 @@
-import React from "react";
 import oImage from "../images/offer.png";
 
 function Offer() {

@@ -1,4 +1,3 @@
-import { useState } from "react";
 import Navbar from "./components/Navbar";
 import Offer from "./components/Offer";
 import Pbox from "./components/Pbox";

@@ -1,6 +1,3 @@
-import React from "react";
-import oImage from "../images/offer.png";
-
 interface Props {
   image1: string;
   heading: string;
