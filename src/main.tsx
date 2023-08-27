@@ -9,19 +9,19 @@ import "./index.css";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/portfolio-deploy/",
     element: <App />,
   },
   {
-    path: "about",
+    path: "/portfolio-deploy/about",
     element: <About />,
   },
   {
-    path: "blog",
+    path: "/portfolio-deploy/blog",
     element: <Blog />,
   },
   {
-    path: "contact",
+    path: "/portfolio-deploy/contact",
     element: <Contact />,
   },
 ]);

@@ -1,5 +1,6 @@
 {
-  "name": "portfolio-production",
+  "name": "portfolio-deploy",
+  "homepage": "https://jjacob-dev.github.io/portfolio-deploy/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
