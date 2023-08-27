@@ -40,16 +40,16 @@ const Navbar = () => {
         }
       >
         <li className="py-6 text-4xl">
-          <Link to="/">Home</Link>
+          <Link to="/portfolio-deploy">Home</Link>
         </li>
         <li className="py-6 text-4xl">
-          <Link to="/about">About</Link>
+          <Link to="/portfolio-deploy/about">About</Link>
         </li>
         <li className="py-6 text-4xl">
-          <Link to="/blog">Blog</Link>
+          <Link to="/portfolio-deploy/blog">Blog</Link>
         </li>
         <li className="py-6 text-4xl">
-          <Link to="/contact">Contact</Link>
+          <Link to="/portfolio-deploy/contact">Contact</Link>
         </li>
       </ul>
 
