@@ -1,7 +1,8 @@
 import Navbar from "./components/Navbar";
-import Offer from "./components/Offer";
 import Pbox from "./components/Pbox";
 import Header from "./components/Header";
+import BlogPost2 from "./components/BlogPost2";
+import oImage from "./images/hero-img.png";
 import "./App.css";
 
 function App() {
@@ -9,7 +10,11 @@ function App() {
     <>
       <Header />
       <Navbar />
-      <Offer />
+      <BlogPost2
+        image1={oImage}
+        heading="Jacob Jurgens"
+        description="Hi, I'm a learning developer and passionate student at Griffith University, studying Information Technology"
+      />
       <div className="flex justify-center items-center gap-9 flex-col lg:flex-row">
         <Pbox
           heading="About"
