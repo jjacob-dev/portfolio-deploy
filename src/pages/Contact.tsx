@@ -1,6 +1,4 @@
-import React from "react";
 import Navbar from "../components/Navbar";
-import Offer from "../components/Offer";
 import Header from "../components/Header";
 import Cbox from "../components/Cbox";
 

@@ -1,6 +1,8 @@
 interface Props {
   heading: string;
   description: string;
+  description2: string;
+  description3: string;
 }
 
 function Hpara(props: Props) {
@@ -13,6 +15,10 @@ function Hpara(props: Props) {
           </div>
           <div className="text-md">
             <p>{props.description}</p>
+            <br></br>
+            <p>{props.description2}</p>
+            <br></br>
+            <p>{props.description3}</p>
           </div>
         </div>
       </div>

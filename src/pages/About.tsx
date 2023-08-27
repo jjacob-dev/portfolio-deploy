@@ -1,4 +1,3 @@
-import React from "react";
 import Aboutmain from "../components/Aboutmain";
 import Navbar from "../components/Navbar";
 import Hpara from "../components/Hpara";
