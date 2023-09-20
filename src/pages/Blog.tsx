@@ -12,7 +12,7 @@ function Blog() {
       <Navbar />
       <BlogPost3
         image1={oImage}
-        heading="Project IDX"
+        heading="Podcast #1: Project IDX"
         description="Google's new competition to VS Code, a web based IDE with incorporated AI, does it have what it takes to compete?"
       />
       <ListenOn />
