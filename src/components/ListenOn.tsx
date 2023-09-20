@@ -7,10 +7,7 @@ function ListenOn() {
           <div className="text-left">
             <p>
               Listen on SoundCloud:{"   "}
-              <a
-                className=" text-blue-500"
-                href="https://soundcloud.com/logan-cudrans/skux-throwaway-bars"
-              >
+              <a className=" text-blue-500" href="https://soundcloud.com/">
                 Episode 1
               </a>
             </p>
